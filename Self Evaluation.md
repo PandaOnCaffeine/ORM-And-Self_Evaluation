@@ -2,7 +2,7 @@
 ## Hvordan er din forståelse af ORM ændret eller forbedret gennem dette kursus? Er der aspekter af ORM, du stadig finder forvirrende eller udfordrende?
 
 Jeg synes jeg har okay styr på ORM, dog mest nok Entity Framework da jeg har lavet opgaverne med det ORM framework.
-Jeg ved allerede at der sikker er mange tid som stadigt kan gå galdt når jeg arbejder med det, men så bliver jeg bare klogere af det.
+Jeg ved allerede at der er mange ting som stadigt kan gå galt når jeg arbejder med det, men så bliver jeg klogere af det, og får bedre forståelse for ORM.
 ligesom da jeg fik fejl omkring Entity type hierarchy mapping(TPH|TPT|TPC), hvor jeg bliver klogere på hvad de forskellige gør, og hvordan man bruger dem.
 
 Jeg kan stadig blive mere klog på hvordan ORM bliver brugt i andre sprog, og om de ligner Entity Framework.
