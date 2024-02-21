@@ -1,5 +1,8 @@
 # Selv Evaluering
 
+## PowerPoint
+### Ligger under PowerPoint Mappen [Åben Her](PowerPoint/)
+
 ## 1. Forståelse af ORM:
 ### Hvordan er din forståelse af ORM ændret eller forbedret gennem dette kursus? Er der aspekter af ORM, du stadig finder forvirrende eller udfordrende?
 
